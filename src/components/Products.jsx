@@ -62,7 +62,7 @@ const Products = () => {
                 active:scale-95 hover:scale-105
               active:bg-white active:text-amber-400 active:duration-300
                 2xl:text-2xl"> 
-                    <a href="https://kiwiowndaniel27.github.io/FreePass.com/#/tienda">
+                    <a href="/#/tienda">
                     Ver más
                     </a>
                 </button>

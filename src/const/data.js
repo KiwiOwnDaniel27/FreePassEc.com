@@ -657,7 +657,7 @@ export const CategoriasData = [
         color: "Azul",
         aosDeLay: "0",
         dad: "100",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/catalogo",
+        link: "/#/catalogo",
     },
     {
         id: 2,
@@ -667,7 +667,7 @@ export const CategoriasData = [
         color: "Negro y blanco",
         aosDeLay: "200",
         dad: "200",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/accesorio",
+        link: "/#/accesorio",
     },
     {
         id: 3,
@@ -690,7 +690,7 @@ export const CatalogoData = [
         color: "Azul",
         aosDeLay: "0",
         dad: "100",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/abrigos",
+        link: "/abrigos",
     },
     {
         id: 2,
@@ -700,7 +700,7 @@ export const CatalogoData = [
         color: "Negro y blanco",
         aosDeLay: "200",
         dad: "200",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/tejidos",
+        link: "/tejidos",
     },
     {
         id: 3,
@@ -710,7 +710,7 @@ export const CatalogoData = [
         color: "Verde Militar",
         aosDeLay: "400",
         dad: "300",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/indumentaria",
+        link: "/indumentaria",
     },
 ];
 
@@ -723,7 +723,7 @@ export const CatalogoAccesorios = [
         color: "Azul",
         aosDeLay: "0",
         dad: "100",
-        link: "https://kiwiowndaniel27.github.io/FreePass.com/#/collares",
+        link: "/collares",
     },
     {
         id: 2,
