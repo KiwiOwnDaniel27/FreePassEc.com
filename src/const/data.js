@@ -29,19 +29,24 @@ export const Menu = [
 
 export const DropdownLinks = [
     {
-        id:2,
+        id:1,
         name: "Abrigos",
         link: "/abrigos",
     },
     {
-        id:3,
+        id:2,
         name: "Tejidos",
         link: "/tejidos",
     },
     {
-        id:4,
+        id:3,
         name: "Camisas",
         link: "/indumentaria",
+    },
+    {
+        id:4,
+        name: "Collares",
+        link: "/collares",
     },
 ];
 
