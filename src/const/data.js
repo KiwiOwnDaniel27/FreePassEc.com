@@ -2081,7 +2081,7 @@ export const CollaresData1 = [
         image: "./assets/collar7.png",
         title: "Collar Elegant Fresh",
         description: "Rojo y celeste",
-        link: "/abrigo-7",
+        link: "/#/abrigo-7",
         price: 23.00
     },
     {
@@ -2089,7 +2089,7 @@ export const CollaresData1 = [
         image: "./assets/collar8.png",
         title: "Collar Red Gold",
         description: "Dorado y rojo",
-        link: "/abrigo-8",
+        link: "/#/abrigo-8",
         price: 27.00
     },
     
