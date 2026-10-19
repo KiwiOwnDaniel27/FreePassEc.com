@@ -4,7 +4,7 @@ const Suscribe = () => {
   return (
     <div 
       data-aos="zoom-in" 
-      className="bg-[url('/assets/fondo.webp')] dark:bg-[url('/assets/fondo1.0.webp')] bg-contain bg-center p-6 h-80 shadow-lg mt-23 2xl:h-120"
+      className="bg-[url('/assets/logo1.webp')] dark:bg-[url('/assets/logo1.webp')] bg-repeat bg-center bg-[length:170px_170px] p-6 h-80 shadow-lg mt-23 2xl:h-120"
     >
         
       <form 
