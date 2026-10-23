@@ -1332,6 +1332,199 @@ export const Tejido5 = [
     },
 ]
 
+export const Collar1 = [
+    {
+        id: 1,
+        image: "./assets/collar1.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 2,
+        image: "./assets/collar1.1.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 3,
+        image: "./assets/collar1.2.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+]
+
+export const Collar2 = [
+    {
+        id: 1,
+        image: "./assets/collar2.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 2,
+        image: "./assets/collar2.1.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 3,
+        image: "./assets/collar2.2.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+]
+
+export const collar3 = [
+    {
+        id: 1,
+        image: "./assets/collar3.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 2,
+        image: "./assets/collar3.1.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 3,
+        image: "./assets/collar3.2.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+]
+
+export const collar4 = [
+    {
+        id: 1,
+        image: "./assets/collar4.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 2,
+        image: "./assets/collar4.1.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 3,
+        image: "./assets/collar4.2.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+]
+
+export const collar5 = [
+    {
+        id: 1,
+        image: "./assets/collar5.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 2,
+        image: "./assets/collar5.1.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 3,
+        image: "./assets/collar5.2.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+]
+
+export const collar6 = [
+    {
+        id: 1,
+        image: "./assets/collar6.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 2,
+        image: "./assets/collar6.1.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 3,
+        image: "./assets/collar6.2.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+]
+
+export const collar7 = [
+    {
+        id: 1,
+        image: "./assets/collar7.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 2,
+        image: "./assets/collar7.1.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 3,
+        image: "./assets/collar7.2.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+]
+
+
+export const collar8 = [
+    {
+        id: 1,
+        image: "./assets/collar8.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 2,
+        image: "./assets/collar8.1.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+    {
+        id: 3,
+        image: "./assets/collar8.2.png",
+        title: "",
+        description: "",
+        link: null,
+    },
+]
+
 export const CarruselAbrigo1 = [
     {
         id: 1,
@@ -1814,6 +2007,159 @@ export const CarruselTejido5 = [
     },
 ]
 
+export const CarruselCollar1 = [
+    {
+        id: 1,
+        image: "./assets/collar1.png",
+        title: "Collar Rouse",
+        description: "",
+        link: null,
+        price: 27 ,
+    },
+    {
+        id: 2,
+        image: "./assets/collar1.png",
+        title: "Collar Rouse",
+        description: "",
+        link: null,
+        price: 27 ,
+    },
+]
+
+export const CarruselCollar2 = [
+    {
+        id: 1,
+        image: "./assets/collar2.png",
+        title: "Cadena Music",
+        description: "",
+        link: null,
+        price: 25 ,
+    },
+    {
+        id: 2,
+        image: "./assets/collar2.png",
+        title: "Cadena Music",
+        description: "",
+        link: null,
+        price: 25 ,
+    },
+]
+
+
+export const CarruselCollar3 = [
+    {
+        id: 1,
+        image: "./assets/collar3.png",
+        title: "Collar Perlas Rouse",
+        description: "",
+        link: null,
+        price: 30 ,
+    },
+    {
+        id: 2,
+        image: "./assets/collar3.png",
+        title: "Collar Perlas Rouse",
+        description: "",
+        link: null,
+        price: 30 ,
+    },
+]
+
+export const CarruselCollar4 = [
+    {
+        id: 1,
+        image: "./assets/collar4.png",
+        title: "Collar Black Gold",
+        description: "",
+        link: null,
+        price: 30 ,
+    },
+    {
+        id: 2,
+        image: "./assets/collar4.png",
+        title: "Collar Black Gold",
+        description: "",
+        link: null,
+        price: 30 ,
+    },
+]
+
+export const CarruselCollar5 = [
+    {
+        id: 1,
+        image: "./assets/collar5.png",
+        title: "Collar Verano Rouse",
+        description: "",
+        link: null,
+        price: 25 ,
+    },
+    {
+        id: 2,
+        image: "./assets/collar5.png",
+        title: "Collar Verano Rouse",
+        description: "",
+        link: null,
+        price: 25 ,
+    },
+]
+
+export const CarruselCollar6 = [
+    {
+        id: 1,
+        image: "./assets/collar6.png",
+        title: "Cadena Gold Black Rouse",
+        description: "",
+        link: null,
+        price: 30 ,
+    },
+    {
+        id: 2,
+        image: "./assets/collar6.png",
+        title: "Cadena Gold Black Rouse",
+        description: "",
+        link: null,
+        price: 30 ,
+    },
+]
+
+export const CarruselCollar7 = [
+    {
+        id: 1,
+        image: "./assets/collar7.png",
+        title: "Collar Elegant Fresh",
+        description: "",
+        link: null,
+        price: 23 ,
+    },
+    {
+        id: 2,
+        image: "./assets/collar7.png",
+        title: "Collar Elegant Fresh",
+        description: "",
+        link: null,
+        price: 23 ,
+    },
+]
+
+export const CarruselCollar8 = [
+    {
+        id: 1,
+        image: "./assets/collar8.png",
+        title: "Collar Red Gold",
+        description: "",
+        link: null,
+        price: 27 ,
+    },
+    {
+        id: 2,
+        image: "./assets/collar8.png",
+        title: "Collar Red Gold",
+        description: "",
+        link: null,
+        price: 27 ,
+    },
+]
+
 
 export const TejidosData1 = [
     {
@@ -2038,7 +2384,7 @@ export const CollaresData1 = [
         image: "./assets/collar1.png",
         title: "Collar Rouse",
         description: "Dorado y rosa",
-        link: null,
+        link: "/collar-1",
         price: 27.00
     },
     {
@@ -2046,7 +2392,7 @@ export const CollaresData1 = [
         image: "./assets/collar2.png",
         title: "Cadena Music",
         description: "Metal y rojo",
-        link: null,
+        link: "/collar-2",
         price: 25.00
     },
     {
@@ -2054,7 +2400,7 @@ export const CollaresData1 = [
         image: "./assets/collar3.png",
         title: "Collar Perlas Rouse",
         description: "Azul y dorado",
-        link: null,
+        link: "/collar-3",
         price: 30.00
     },
     {
@@ -2062,7 +2408,7 @@ export const CollaresData1 = [
         image: "./assets/collar4.png",
         title: "Collar Black Gold",
         description: "Dorado y negro",
-        link: null,
+        link: "/collar-4",
         price: 30.00
     },
     {
@@ -2070,7 +2416,7 @@ export const CollaresData1 = [
         image: "./assets/collar5.png",
         title: "Collar Verano Rouse",
         description: "Celesta y blanco",
-        link: null,
+        link: "/collar-5",
         price: 25.00
     },
     {
@@ -2078,7 +2424,7 @@ export const CollaresData1 = [
         image: "./assets/collar6.png",
         title: "Cadena Gold Black Rouse",
         description: "Dorado y negro",
-        link: null,
+        link: "/collar-6",
         price: 30.00
     },
     {
@@ -2086,7 +2432,7 @@ export const CollaresData1 = [
         image: "./assets/collar7.png",
         title: "Collar Elegant Fresh",
         description: "Rojo y celeste",
-        link: null,
+        link: "/collar-7",
         price: 23.00
     },
     {
@@ -2094,7 +2440,7 @@ export const CollaresData1 = [
         image: "./assets/collar8.png",
         title: "Collar Red Gold",
         description: "Dorado y rojo",
-        link: null,
+        link: "/collar-8",
         price: 27.00
     },
     
