@@ -761,7 +761,7 @@ export const CatalogoPagos = [
         color: "Azul",
         aosDeLay: "0",
         dad: "100",
-        link: "https://wa.me/593988220328?text=Hola%20,comparto%20el%20comprobante%20de%20pago%20,estoy%20,al%20pendiente%20de%20mi%20pedido👕👗🛍️",
+        link: "https://wa.me/593988220328?text=Hola%20,comparto%20el%20comprobante%20de%20pago%20,estoy%20,al%20pendiente%20de%20mi%20pedido🛍️😊",
     },
 ];
 

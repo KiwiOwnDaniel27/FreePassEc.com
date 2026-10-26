@@ -25,7 +25,7 @@ const Pago = () => {
 
   return (
     <div className="mt-6 mb-12 relative min-h-screen">
-      <div className="text-center mb-10 max-w-[600px] mx-auto">
+      <div className="text-center mb-10 max-w-600px mx-auto">
         <p data-aos="fade-up" className="text-sm font-bold text-amber-400 dark:text-amber-500
           2xl:text-7xl xl:text-sm lg:text-sm md:text-sm sm:text-3xl">
           Falta poco, tu carrito te espera
@@ -49,7 +49,7 @@ const Pago = () => {
       <div>
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-4 lg:grid-cols-5
           place-items-center gap-12 text-center ml-0
-          2xl:ml-24 2xl:gap-[140px]
+          2xl:ml-24 2xl:gap-140px
           xl:ml-160 xl:gap-24
           lg:ml-32 lg:gap-20
           md:ml-20 md:gap-16
@@ -60,7 +60,7 @@ const Pago = () => {
               data-aos-delay={data.aosDeLay}
               key={data.id}
               className="space-y-3 w-80
-              2xl:w-[500px] xl:w-80 lg:w-80 md:w-63">
+              2xl:w-500px xl:w-80 lg:w-80 md:w-63">
               <a href={data.link}>
                 <img src={data.image} alt="" className="object-cover rounded-md
                   active:scale-95 hover:scale-105 active:duration-300" />
