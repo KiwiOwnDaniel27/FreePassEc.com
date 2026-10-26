@@ -27,18 +27,18 @@ const Pago = () => {
     <div className="mt-6 mb-12 relative min-h-screen">
       <div className="text-center mb-10 max-w-600px mx-auto">
         <p data-aos="fade-up" className="text-sm font-bold text-amber-400 dark:text-amber-500
-          2xl:text-7xl xl:text-sm lg:text-sm md:text-sm sm:text-3xl">
+          2xl:text-3xl xl:text-sm lg:text-sm md:text-sm sm:text-3xl">
           Falta poco, tu carrito te espera
         </p>
         <p data-aos="fade-up" className="text-sm font-bold text-amber-400 dark:text-amber-500
-          2xl:text-7xl xl:text-sm lg:text-sm md:text-sm sm:text-3xl">
+          2xl:text-3xl xl:text-sm lg:text-sm md:text-sm sm:text-3xl">
           Realiza tu pago
         </p>
         <h1 data-aos="fade-up" className="text-3xl font-bold
           2xl:text-4xl xl:text-3xl lg:text-3xl md:text-3xl sm:text-2xl">
           Valor a cancelar: 
         </h1>
-        <div className="p-4 rounded-2xl ml-39 text-2xl xl:ml-60">
+        <div className="p-4 rounded-2xl ml-39 text-2xl xl:ml-156 2xl:ml-206 2xl:text-4xl">
             <div className="flex justify-between font-bold text-black mb-2">
               {/* 🟢 4. Renderizamos directamente el totalAmount recibido */}
               <span>${Number(totalAmount).toFixed(2)}</span>
@@ -49,7 +49,7 @@ const Pago = () => {
       <div>
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-4 lg:grid-cols-5
           place-items-center gap-12 text-center ml-0
-          2xl:ml-24 2xl:gap-140px
+          2xl:ml-209 2xl:gap-140px
           xl:ml-160 xl:gap-24
           lg:ml-32 lg:gap-20
           md:ml-20 md:gap-16
@@ -65,7 +65,7 @@ const Pago = () => {
                 <img src={data.image} alt="" className="object-cover rounded-md
                   active:scale-95 hover:scale-105 active:duration-300" />
                 <div className="mt-6 text-center text-lg/tight font-bold">
-                  <h3 className="font-semibold 2xl:text-4xl">{data.title}</h3>
+                  <h3 className="font-semibold 2xl:text-4xl 2xl:w-200 2xl:-ml-60">{data.title}</h3>
                 </div>
               </a>
             </div>
