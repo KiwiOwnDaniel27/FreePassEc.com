@@ -71,15 +71,15 @@ const Hero = () => {
                                             {data.description}
                                         </p>
                                         <div >
-    
-                                            <button className="primary-button-cat
+                                        <a
+                                            href={data.link}
+                                            className="primary-button-cat inline-block text-center
                                             2xl:mt-12 xl:mt-12 lg:mt-12 md:mt-12 sm:mt-12 mt-65
                                             2xl:text-2xl
-                                            2xl:ml-0 xl:ml-0 lg:ml-0 md:ml-0 sm:ml-0 -ml-3  ">
-                                                <a href="/#/tienda">
-                                                Ver más 
-                                                </a>
-                                            </button>
+                                            2xl:ml-0 xl:ml-0 lg:ml-0 md:ml-0 sm:ml-0 -ml-3"
+                                        >
+                                            Ver más
+                                        </a>
                                         </div>
                                 </div>
     

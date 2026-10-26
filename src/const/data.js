@@ -1,4 +1,4 @@
-import { title } from "framer-motion/client";
+import { link, title } from "framer-motion/client";
 import { RiTiktokFill, RiLinkedinFill, RiGithubFill, RiInstagramFill, RiPhoneFill, RiMailSendFill, RiUserLocationLine } from "react-icons/ri";
 
 
@@ -56,24 +56,28 @@ export const ImageList = [
         image: "./assets/newtemporate.png",
         title: "Nueva Colección Octubre.",
         description: "Femenino / Masculino",
+        link: "/#/catalogo",
     },
     {
         id: 2,
         image: "./assets/anunciocollar.png",
-        title: "New Collares.",
+        title: "Nuevos Accesorios.",
         description: "Encuentra tu estilo",
+        link: "/#/accesorio",
     },
     {
         id: 3,
         image: "./assets/Image1.webp",
         title: "Bienvenido Free Pass",
         description: "Colección Territorio Libre 2026",
+        link: "/#/catalogo",  
     },
     {
         id: 4,
         image: "./assets/anuncio.webp",
         title: "Colaboración DQ Company",
         description: "Nueva Web para nuestros clientes.",
+        link: "https://kiwiowndaniel27.github.io/CV-DQ-React-TailwindCss/",
     },
 ];
 
