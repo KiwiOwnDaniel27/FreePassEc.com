@@ -38,7 +38,7 @@ const Pago = () => {
           2xl:text-4xl xl:text-3xl lg:text-3xl md:text-3xl sm:text-2xl">
           Valor a cancelar: 
         </h1>
-        <div className="p-4 rounded-2xl ml-33 text-2xl">
+        <div className="p-4 rounded-2xl ml-39 text-2xl xl:ml-60">
             <div className="flex justify-between font-bold text-black mb-2">
               {/* 🟢 4. Renderizamos directamente el totalAmount recibido */}
               <span>${Number(totalAmount).toFixed(2)}</span>
@@ -50,7 +50,7 @@ const Pago = () => {
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-4 lg:grid-cols-5
           place-items-center gap-12 text-center ml-0
           2xl:ml-24 2xl:gap-[140px]
-          xl:ml-40 xl:gap-24
+          xl:ml-160 xl:gap-24
           lg:ml-32 lg:gap-20
           md:ml-20 md:gap-16
           sm:ml-0 sm:gap-9">
@@ -72,10 +72,10 @@ const Pago = () => {
           ))}
         </div>
       </div>
-
+          <br /><br />
       <div className="container" >
         <div className="bg-[url('/assets/logo1.webp')] bg-cover bg-center
-        h-25 w-89 text-black mt-21 ml-0
+        h-25 w-89 text-black mt-21 ml-4
         2xl:mt-9 xl:mt-9 lg:mt-9 md:mt-9 sm:mt-19 2xl:w-160
         2xl:ml-93 xl:ml-90 lg:ml-76 md:ml-37 sm:ml-30
         2xl:h-40 xl:h-40 lg:h-40 md:h-40 sm:h-40">
