@@ -752,6 +752,19 @@ export const CatalogoAccesorios = [
     },
 ];
 
+export const CatalogoPagos = [
+    {
+        id: 1,
+        image: "./assets/PAGO_QR.png",
+        title: "Compartenos el comprobante de tu pago para finalizar con tu comprar",
+        rating: 5.0,
+        color: "Azul",
+        aosDeLay: "0",
+        dad: "100",
+        link: "/#/collares",
+    },
+];
+
 export const Abrigo1 = [
     {
         id: 1,

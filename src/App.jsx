@@ -48,6 +48,7 @@ import Collar5 from './pagesCollar/Collar5';
 import Collar6 from './pagesCollar/Collar6';
 import Collar7 from './pagesCollar/Collar7';
 import Collar8 from './pagesCollar/Collar8';
+import Pago from './components/Pago';
 
 
 const App = () => {
@@ -122,6 +123,7 @@ const App = () => {
         <Route path="/collar-6" element={<Collar6 />} />
         <Route path="/collar-7" element={<Collar7 />} />
         <Route path="/collar-8" element={<Collar8 />} />
+        <Route path="/pago" element={<Pago />} />
       </Routes>
     </HashRouter>
   );
