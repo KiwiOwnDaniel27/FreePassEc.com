@@ -137,30 +137,6 @@ export const ProductsData = [
 
 export const ProductsData1 = [
     {
-        id: 1,
-        image: "./assets/CamisaMan1.1.webp",
-        title: "Camisa Blue Paris-Milan",
-        description: "Negro y Azul",
-        link: "/camisa-1",
-        price: 48.00
-    },
-    {
-        id: 2,
-        image: "./assets/CamisaMan3.1.webp",
-        title: "Camisa Yellow Shield",
-        description: "Negro y Amarillo",
-        link: "/camisa-2",
-        price: 45.00
-    },
-    {
-        id: 3,
-        image: "./assets/CamisaMan5.1.webp",
-        title: "Camisa Green Style",
-        description: "Negro y Verde",
-        link: "/camisa-3",
-        price: 45.00
-    },
-    {
         id: 4,
         image: "./assets/CamisaMan7.1.webp",
         img: "./assets/soldOut.webp",
@@ -186,35 +162,11 @@ export const ProductsData1 = [
         price: 45.00
     },
     {
-        id: 7,
-        image: "./assets/CamisaMan13.1.webp",
-        title: "Camisa White Black",
-        description: "Blanco y negro",
-        link: "/camisa-7",
-        price: 48.00
-    },
-    {
-        id: 8,
-        image: "./assets/CamisaMan15.1.webp",
-        title: "Camisa Green Rouse",
-        description: "Blanco y Verde",
-        link: "/camisa-8",
-        price: 39.99
-    },
-    {
         id: 9,
         image: "./assets/tejido1.1.webp",
         title: "Saco Tejido Rose",
         description: "Azul y café",
         link: "/tejido-1",
-        price: 60.00
-    },
-    {
-        id: 10,
-        image: "./assets/tejido3.1.webp",
-        title: "Saco Tejido Free",
-        description: "Verde y verde oscuro",
-        link: "/tejido-2",
         price: 60.00
     },
     {
@@ -301,30 +253,12 @@ export const ProductsData1 = [
         price: 80.00
     },
     {
-        id: 21,
-        image: "./assets/abrigo15.1.webp",
-        img: "./assets/soldOut.webp",
-        title: "Abrigo Blue Sky",
-        description: "Azul Marino",
-        link: "/abrigo-8",
-        price: 98.00
-    },
-    {
         id: 22,
         image: "./assets/abrigo17.1.webp",
         title: "Abrigo Under Blue",
         description: "Blanco y negro",
         link: "/abrigo-9",
         price: 49.99
-    },
-    {
-        id: 23,
-        image: "./assets/abrigo19.1.webp",
-        img: "./assets/soldOut.webp",
-        title: "Abrigo Mustard Rose",
-        description: "B/N y Mostaza",
-        link: "/abrigo-10",
-        price: 125.00
     },
     {
         id: 24,
@@ -334,7 +268,70 @@ export const ProductsData1 = [
         link: "/abrigo-11",
         price: 95.00
     },
-    
+    {
+        id: 25,
+        image: "./assets/collar1.png",
+        title: "Abrigo Autumn",
+        description: "Blanco y negro",
+        link: "/abrigo-11",
+        price: 95.00
+    },
+    {
+        id: 26,
+        image: "./assets/collar2.png",
+        title: "Abrigo Autumn",
+        description: "Blanco y negro",
+        link: "/abrigo-11",
+        price: 95.00
+    },
+    {
+        id: 27,
+        image: "./assets/collar3.png",
+        title: "Abrigo Autumn",
+        description: "Blanco y negro",
+        link: "/abrigo-11",
+        price: 95.00
+    },
+    {
+        id: 28,
+        image: "./assets/collar4.png",
+        title: "Abrigo Autumn",
+        description: "Blanco y negro",
+        link: "/abrigo-11",
+        price: 95.00
+    },
+    {
+        id: 29,
+        image: "./assets/collar5.png",
+        title: "Abrigo Autumn",
+        description: "Blanco y negro",
+        link: "/abrigo-11",
+        price: 95.00
+    },
+    {
+        id: 30,
+        image: "./assets/collar6.png",
+        title: "Abrigo Autumn",
+        description: "Blanco y negro",
+        link: "/abrigo-11",
+        price: 95.00
+    },
+    {
+        id: 31,
+        image: "./assets/collar7.png",
+        title: "Abrigo Autumn",
+        description: "Blanco y negro",
+        link: "/abrigo-11",
+        price: 95.00
+    },
+    {
+        id: 32,
+        image: "./assets/collar8.png",
+        title: "Abrigo Autumn",
+        description: "Blanco y negro",
+        link: "/abrigo-11",
+        price: 95.00
+    },
 ]
 
 export const BannerImg = [
@@ -2229,6 +2226,7 @@ export const CamisaData1 = [
     {
         id: 1.1,
         image: "./assets/CamisaMan1.1.webp",
+        img: "./assets/soldOut.webp",
         title: "Camisa Blue Paris-Milan",
         description: "Negro y Azul",
         link: "/camisa-1",
@@ -2289,6 +2287,7 @@ export const CamisaData1 = [
     {
         id: 8.1,
         image: "./assets/CamisaMan15.1.webp",
+        img: "./assets/soldOut.webp",
         title: "Camisa Green Rouse",
         description: "Blanco y Verde",
         link: "/camisa-9",
