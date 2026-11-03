@@ -123,8 +123,11 @@ const Navbar = () => {
         <img className="-mt-140 absolute w-75 container block dark:hidden" src="./assets/logo-horizontal.webp" alt="" />
         <img className="-mt-140 absolute w-75 container hidden dark:block" src="./assets/logo-horizontal1.webp" alt="" />
 
-        <img className="active:scale-95 hover:scale-105 mt-108 2xl:mt-0 absolute w-33 container block dark:hidden" src="./assets/logoDQCompany.webp" alt="" />
-        <img className="active:scale-95 hover:scale-105 mt-108 2xl:mt-0 absolute w-33 container hidden dark:block" src="./assets/logoDQCompany.webp" alt="" />
+         <a href="https://kiwiowndaniel27.github.io/CV-DQ-React-TailwindCss/">
+         <img className="active:scale-95 hover:scale-105 mt-75 2xl:mt-0 -ml-11 absolute w-23  block dark:hidden" src="./assets/logoDQCompany.webp" alt="" />
+         <img className="active:scale-95 hover:scale-105 mt-75 2xl:mt-0 -ml-11 absolute w-23 hidden dark:block" src="./assets/logoDQCompany.webp" alt="" />
+         </a>   
+
 
         <ul className="flex flex-col items-center gap-6 text-xl -mt-19">
           <li>
