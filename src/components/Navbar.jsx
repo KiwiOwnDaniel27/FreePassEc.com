@@ -61,15 +61,15 @@ const Navbar = () => {
 
         <div className="container">
           <button href="https://www.instagram.com/freepassec/" target="_blank" rel="noreferrer">
-            <img className="ml-21 2xl:ml-300 xl:ml-233 lg:ml-180 md:ml-140 mt-0 2xl:-mt-33 xl:-mt-19 lg:-mt-12 md:-mt-12 sm:ml-55 w-46 2xl:w-100 xl:w-70 lg:w-60 md:w-50 sm:w-45 block dark:hidden" src="./assets/logo-horizontal.webp" alt="" width={300} />
-            <img className="ml-21 2xl:ml-300 xl:ml-233 lg:ml-180 md:ml-140 mt-0 2xl:-mt-33 xl:-mt-19 lg:-mt-12 md:-mt-12 sm:ml-55 w-46 2xl:w-100 xl:w-70 lg:w-60 md:w-50 sm:w-45 hidden dark:block" src="./assets/logo-horizontal1.webp" alt="" width={300} />
+            <img className="ml-21 2xl:ml-286 xl:ml-233 lg:ml-180 md:ml-140 mt-0 2xl:-mt-33 xl:-mt-19 lg:-mt-12 md:-mt-12 sm:ml-55 w-46 2xl:w-100 xl:w-70 lg:w-60 md:w-50 sm:w-45 block dark:hidden" src="./assets/logo-horizontal.webp" alt="" width={300} />
+            <img className="ml-21 2xl:ml-286 xl:ml-233 lg:ml-180 md:ml-140 mt-0 2xl:-mt-33 xl:-mt-19 lg:-mt-12 md:-mt-12 sm:ml-55 w-46 2xl:w-100 xl:w-70 lg:w-60 md:w-50 sm:w-45 hidden dark:block" src="./assets/logo-horizontal1.webp" alt="" width={300} />
           </button>
 
           {/* CARRITO */}
           <div className="relative">
             <button
               onClick={() => setShowCart(!showCart)}
-              className="bg-amber-400 dark:bg-amber-500 hover:bg-amber-40 transition-all duration-200 text-white hover:text-black py-3 px-6 rounded-full flex items-center h-10 gap-3 group ml-45 mt-3 border border-black 2xl:w-35 2xl:h-20 2xl:ml-360 xl:ml-259 lg:ml-200 md:ml-155 sm:ml-80 2xl:mt-3 xl:mt-3 lg:mt-6 md:mt-3 sm:mt-10 active:scale-95 hover:scale-105 active:bg-white active:text-amber-400 active:duration-300"
+              className="bg-amber-400 dark:bg-amber-500 hover:bg-amber-40 transition-all duration-200 text-white hover:text-black py-3 px-6 rounded-full flex items-center h-10 gap-3 group ml-45 mt-3 border border-black 2xl:w-35 2xl:h-20 2xl:ml-330 xl:ml-259 lg:ml-200 md:ml-155 sm:ml-80 2xl:mt-3 xl:mt-3 lg:mt-6 md:mt-3 sm:mt-10 active:scale-95 hover:scale-105 active:bg-white active:text-amber-400 active:duration-300"
             >
               <span className="group-hover:block transition-all duration-200 2xl:text-xl">{products.length}</span>
               <FaCartShopping
