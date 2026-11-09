@@ -1541,7 +1541,7 @@ export const collar8 = [
 
 export const CarruselAbrigo1 = [
     {
-        id: 1,
+        id: 14,
         image: "./assets/abrigo1.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Dark Vampire",
@@ -1550,7 +1550,7 @@ export const CarruselAbrigo1 = [
         price: 98 ,
     },
     {
-        id: 2,
+        id: 14,
         image: "./assets/abrigo1.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Dark Vampire",
@@ -1562,7 +1562,7 @@ export const CarruselAbrigo1 = [
 
 export const CarruselAbrigo2 = [
     {
-        id: 1,
+        id: 15,
         image: "./assets/abrigo3.1.webp",
         title: "Abrigo Dark Green Rever",
         description: "",
@@ -1570,7 +1570,7 @@ export const CarruselAbrigo2 = [
         price: 135 ,
     },
     {
-        id: 2,
+        id: 15,
         image: "./assets/abrigo3.1.webp",
         title: "Abrigo Dark Green Rever",
         description: "",
@@ -1581,7 +1581,7 @@ export const CarruselAbrigo2 = [
 
 export const CarruselAbrigo3 = [
     {
-        id: 1,
+        id: 16,
         image: "./assets/abrigo5.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Military Hook",
@@ -1590,7 +1590,7 @@ export const CarruselAbrigo3 = [
         price: 99 ,
     },
     {
-        id: 2,
+        id: 16,
         image: "./assets/abrigo5.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Military Hook",
@@ -1602,7 +1602,7 @@ export const CarruselAbrigo3 = [
 
 export const CarruselAbrigo4 = [
     {
-        id: 1,
+        id: 17,
         image: "./assets/abrigo7.1.webp",
         title: "Abrigo Future Street",
         description: "",
@@ -1610,7 +1610,7 @@ export const CarruselAbrigo4 = [
         price: 75 ,
     },
     {
-        id: 2,
+        id: 17,
         image: "./assets/abrigo7.1.webp",
         title: "Abrigo Future Street",
         description: "",
@@ -1621,7 +1621,7 @@ export const CarruselAbrigo4 = [
 
 export const CarruselAbrigo5 = [
     {
-        id: 1,
+        id: 18,
         image: "./assets/abrigo9.1.webp",
         img: "./assets/soldOut.webp",
         title: "Chaqueta Glow",
@@ -1630,7 +1630,7 @@ export const CarruselAbrigo5 = [
         price: 130 ,
     },
     {
-        id: 2,
+        id: 18,
         image: "./assets/abrigo9.1.webp",
         img: "./assets/soldOut.webp",
         title: "Chaqueta Glow",
@@ -1642,7 +1642,7 @@ export const CarruselAbrigo5 = [
 
 export const CarruselAbrigo6 = [
     {
-        id: 1,
+        id: 19,
         image: "./assets/abrigo11.1.webp",
         title: "Abrigo WaterProof",
         description: "",
@@ -1650,7 +1650,7 @@ export const CarruselAbrigo6 = [
         price: 75 ,
     },
     {
-        id: 2,
+        id: 19,
         image: "./assets/abrigo11.1.webp",
         title: "Abrigo WaterProof",
         description: "",
@@ -1661,7 +1661,7 @@ export const CarruselAbrigo6 = [
 
 export const CarruselAbrigo7 = [
     {
-        id: 1,
+        id: 20,
         image: "./assets/abrigo13.1.webp",
         title: "Abrigo Green Future",
         description: "",
@@ -1669,7 +1669,7 @@ export const CarruselAbrigo7 = [
         price: 80 ,
     },
     {
-        id: 2,
+        id: 20,
         image: "./assets/abrigo13.1.webp",
         title: "Abrigo Green Future",
         description: "",
@@ -1680,7 +1680,7 @@ export const CarruselAbrigo7 = [
 
 export const CarruselAbrigo8 = [
     {
-        id: 1,
+        id: 21,
         image: "./assets/abrigo15.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Blue Sky",
@@ -1689,7 +1689,7 @@ export const CarruselAbrigo8 = [
         price: 98 ,
     },
     {
-        id: 2,
+        id: 21,
         image: "./assets/abrigo15.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Blue Sky",
@@ -1701,7 +1701,7 @@ export const CarruselAbrigo8 = [
 
 export const CarruselAbrigo9 = [
     {
-        id: 1,
+        id: 22,
         image: "./assets/abrigo17.1.webp",
         title: "Abrigo Under Blue",
         description: "",
@@ -1709,7 +1709,7 @@ export const CarruselAbrigo9 = [
         price: 49.99 ,
     },
     {
-        id: 2,
+        id: 22,
         image: "./assets/abrigo17.1.webp",
         title: "Abrigo Under Blue",
         description: "",
@@ -1720,7 +1720,7 @@ export const CarruselAbrigo9 = [
 
 export const CarruselAbrigo10 = [
     {
-        id: 1,
+        id: 23,
         image: "./assets/abrigo19.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Mustard Rose",
@@ -1729,7 +1729,7 @@ export const CarruselAbrigo10 = [
         price: 125 ,
     },
     {
-        id: 2,
+        id: 23,
         image: "./assets/abrigo19.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Mustard Rose",
@@ -1742,7 +1742,7 @@ export const CarruselAbrigo10 = [
 
 export const CarruselAbrigo11 = [
     {
-        id: 1,
+        id: 24,
         image: "./assets/abrigo21.1.webp",
         title: "Abrigo Autumn",
         description: "",
@@ -1750,7 +1750,7 @@ export const CarruselAbrigo11 = [
         price: 95 ,
     },
     {
-        id: 2,
+        id: 24,
         image: "./assets/abrigo21.1.webp",
         title: "Abrigo Autumn",
         description: "",
@@ -1769,7 +1769,7 @@ export const CarruselCamisa1 = [
         price: 48.00
     },
     {
-        id: 2,
+        id: 1,
         image: "./assets/CamisaMan1.1.webp",
         title: "Camisa Blue Paris-Milan",
         description: "Negro y Azul",
@@ -1780,7 +1780,7 @@ export const CarruselCamisa1 = [
 
 export const CarruselCamisa2 = [
     {
-        id: 1,
+        id: 2,
         image: "./assets/CamisaMan3.1.webp",
         title: "Camisa Yellow Shield",
         description: "Negro y Azul",
@@ -1799,7 +1799,7 @@ export const CarruselCamisa2 = [
 
 export const CarruselCamisa3 = [
     {
-        id: 1,
+        id: 3,
         image: "./assets/CamisaMan5.1.webp",
         title: "Camisa Green Style",
         description: "Negro y Verde",
@@ -1807,7 +1807,7 @@ export const CarruselCamisa3 = [
         price: 45.00
     },
     {
-        id: 2,
+        id: 3,
         image: "./assets/CamisaMan5.1.webp",
         title: "Camisa Green Style",
         description: "Negro y Verde",
@@ -1818,7 +1818,7 @@ export const CarruselCamisa3 = [
 
 export const CarruselCamisa4 = [
     {
-        id: 1,
+        id: 4,
         image: "./assets/CamisaMan7.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Red Crown",
@@ -1827,7 +1827,7 @@ export const CarruselCamisa4 = [
         price: 45.00
     },
     {
-        id: 2,
+        id: 4,
         image: "./assets/CamisaMan7.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Red Crown",
@@ -1839,7 +1839,7 @@ export const CarruselCamisa4 = [
 
 export const CarruselCamisa6 = [
     {
-        id: 1,
+        id: 5,
         image: "./assets/CamisaMan9.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Pocket",
@@ -1848,7 +1848,7 @@ export const CarruselCamisa6 = [
         price: 45.00
     },
     {
-        id: 2,
+        id: 5,
         image: "./assets/CamisaMan9.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Pocket",
@@ -1860,7 +1860,7 @@ export const CarruselCamisa6 = [
 
 export const CarruselCamisa7 = [
     {
-        id: 1,
+        id: 6,
         image: "./assets/CamisaMan11.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa White Black",
@@ -1869,7 +1869,7 @@ export const CarruselCamisa7 = [
         price: 48.00
     },
     {
-        id: 2,
+        id: 6,
         image: "./assets/CamisaMan11.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa White Black",
@@ -1881,7 +1881,7 @@ export const CarruselCamisa7 = [
 
 export const CarruselCamisa8 = [
     {
-        id: 1,
+        id: 7,
         image: "./assets/CamisaMan13.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Blue Line",
@@ -1890,7 +1890,7 @@ export const CarruselCamisa8 = [
         price: 45.00
     },
     {
-        id: 2,
+        id: 7,
         image: "./assets/CamisaMan13.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Blue Line",
@@ -1902,7 +1902,7 @@ export const CarruselCamisa8 = [
 
 export const CarruselCamisa9 = [
     {
-        id: 1,
+        id: 8,
         image: "./assets/CamisaMan15.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Green Rouse",
@@ -1911,7 +1911,7 @@ export const CarruselCamisa9 = [
         price: 39.99
     },
     {
-        id: 2,
+        id: 8,
         image: "./assets/CamisaMan15.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Green Rouse",
@@ -1928,7 +1928,7 @@ export const CarruselCamisa9 = [
 
 export const CarruselTejido1 = [
     {
-        id: 1,
+        id: 9,
         image: "./assets/tejido1.1.webp",
         title: "Saco Tejido Rose",
         description: "Negro y Azul",
@@ -1936,7 +1936,7 @@ export const CarruselTejido1 = [
         price: 60.00
     },
     {
-        id: 2,
+        id: 9,
         image: "./assets/tejido1.1.webp",
         title: "Saco Tejido Rose",
         description: "Negro y Azul",
@@ -1947,7 +1947,7 @@ export const CarruselTejido1 = [
 
 export const CarruselTejido2 = [
     {
-        id: 1,
+        id: 10,
         image: "./assets/tejido3.1.webp",
         title: "Saco Tejido Free",
         description: "Negro y Azul",
@@ -1955,7 +1955,7 @@ export const CarruselTejido2 = [
         price: 60.00
     },
     {
-        id: 2,
+        id: 10,
         image: "./assets/tejido3.1.webp",
         title: "Saco Tejido Free",
         description: "Negro y Azul",
@@ -1966,7 +1966,7 @@ export const CarruselTejido2 = [
 
 export const CarruselTejido3 = [
     {
-        id: 1,
+        id: 11,
         image: "./assets/tejido5.1.webp",
         title: "Saco Tejido Elegant",
         description: "Negro y Azul",
@@ -1974,7 +1974,7 @@ export const CarruselTejido3 = [
         price: 60.00
     },
     {
-        id: 2,
+        id: 11,
         image: "./assets/tejido5.1.webp",
         title: "Saco Tejido Elegant",
         description: "Negro y Azul",
@@ -1985,7 +1985,7 @@ export const CarruselTejido3 = [
 
 export const CarruselTejido4 = [
     {
-        id: 1,
+        id: 12,
         image: "./assets/tejido7.1.webp",
         title: "Saco Tejido GirlPower",
         description: "Negro y Azul",
@@ -1993,7 +1993,7 @@ export const CarruselTejido4 = [
         price: 60.00
     },
     {
-        id: 2,
+        id: 12,
         image: "./assets/tejido7.1.webp",
         title: "Saco Tejido GirlPower",
         description: "Negro y Azul",
@@ -2004,7 +2004,7 @@ export const CarruselTejido4 = [
 
 export const CarruselTejido5 = [
     {
-        id: 1,
+        id: 13,
         image: "./assets/tejido9.1.webp",
         title: "Saco Tejido Beish",
         description: "Negro y Azul",
@@ -2012,7 +2012,7 @@ export const CarruselTejido5 = [
         price: 60.00
     },
     {
-        id: 2,
+        id: 13,
         image: "./assets/tejido9.1.webp",
         title: "Saco Tejido Beish",
         description: "Negro y Azul",
@@ -2023,7 +2023,7 @@ export const CarruselTejido5 = [
 
 export const CarruselCollar1 = [
     {
-        id: 1,
+        id: 25,
         image: "./assets/collar1.png",
         title: "Collar Rouse",
         description: "",
@@ -2031,7 +2031,7 @@ export const CarruselCollar1 = [
         price: 27 ,
     },
     {
-        id: 2,
+        id: 25,
         image: "./assets/collar1.png",
         title: "Collar Rouse",
         description: "",
@@ -2042,7 +2042,7 @@ export const CarruselCollar1 = [
 
 export const CarruselCollar2 = [
     {
-        id: 1,
+        id: 26,
         image: "./assets/collar2.png",
         title: "Cadena Music",
         description: "",
@@ -2050,7 +2050,7 @@ export const CarruselCollar2 = [
         price: 25 ,
     },
     {
-        id: 2,
+        id: 26,
         image: "./assets/collar2.png",
         title: "Cadena Music",
         description: "",
@@ -2062,7 +2062,7 @@ export const CarruselCollar2 = [
 
 export const CarruselCollar3 = [
     {
-        id: 1,
+        id: 27,
         image: "./assets/collar3.png",
         title: "Collar Perlas Rouse",
         description: "",
@@ -2070,7 +2070,7 @@ export const CarruselCollar3 = [
         price: 30 ,
     },
     {
-        id: 2,
+        id: 27,
         image: "./assets/collar3.png",
         title: "Collar Perlas Rouse",
         description: "",
@@ -2081,7 +2081,7 @@ export const CarruselCollar3 = [
 
 export const CarruselCollar4 = [
     {
-        id: 1,
+        id: 28,
         image: "./assets/collar4.png",
         title: "Collar Black Gold",
         description: "",
@@ -2089,7 +2089,7 @@ export const CarruselCollar4 = [
         price: 30 ,
     },
     {
-        id: 2,
+        id: 28,
         image: "./assets/collar4.png",
         title: "Collar Black Gold",
         description: "",
@@ -2100,7 +2100,7 @@ export const CarruselCollar4 = [
 
 export const CarruselCollar5 = [
     {
-        id: 1,
+        id: 29,
         image: "./assets/collar5.png",
         title: "Collar Verano Rouse",
         description: "",
@@ -2108,7 +2108,7 @@ export const CarruselCollar5 = [
         price: 25 ,
     },
     {
-        id: 2,
+        id: 29,
         image: "./assets/collar5.png",
         title: "Collar Verano Rouse",
         description: "",
@@ -2119,7 +2119,7 @@ export const CarruselCollar5 = [
 
 export const CarruselCollar6 = [
     {
-        id: 1,
+        id: 30,
         image: "./assets/collar6.png",
         title: "Cadena Gold Black Rouse",
         description: "",
@@ -2127,7 +2127,7 @@ export const CarruselCollar6 = [
         price: 30 ,
     },
     {
-        id: 2,
+        id: 30,
         image: "./assets/collar6.png",
         title: "Cadena Gold Black Rouse",
         description: "",
@@ -2138,7 +2138,7 @@ export const CarruselCollar6 = [
 
 export const CarruselCollar7 = [
     {
-        id: 1,
+        id: 31,
         image: "./assets/collar7.png",
         title: "Collar Elegant Fresh",
         description: "",
@@ -2146,7 +2146,7 @@ export const CarruselCollar7 = [
         price: 23 ,
     },
     {
-        id: 2,
+        id: 31,
         image: "./assets/collar7.png",
         title: "Collar Elegant Fresh",
         description: "",
@@ -2157,7 +2157,7 @@ export const CarruselCollar7 = [
 
 export const CarruselCollar8 = [
     {
-        id: 1,
+        id: 32,
         image: "./assets/collar8.png",
         title: "Collar Red Gold",
         description: "",
@@ -2165,7 +2165,7 @@ export const CarruselCollar8 = [
         price: 27 ,
     },
     {
-        id: 2,
+        id: 32,
         image: "./assets/collar8.png",
         title: "Collar Red Gold",
         description: "",
@@ -2177,7 +2177,7 @@ export const CarruselCollar8 = [
 
 export const TejidosData1 = [
     {
-        id: 1,
+        id: 9,
         image: "./assets/tejido1.1.webp",
         title: "Saco Tejido Rose",
         description: "Azul y café",
@@ -2185,7 +2185,7 @@ export const TejidosData1 = [
         price: 60.00
     },
     {
-        id: 2,
+        id: 10,
         image: "./assets/tejido3.1.webp",
         img: "./assets/soldOut.webp",
         title: "Saco Tejido Free",
@@ -2194,7 +2194,7 @@ export const TejidosData1 = [
         price: 60.00
     },
     {
-        id: 3,
+        id: 11,
         image: "./assets/tejido5.1.webp",
         title: "Saco Tejido Elegant",
         description: "Mostaza y café",
@@ -2202,7 +2202,7 @@ export const TejidosData1 = [
         price: 60.00
     },
     {
-        id: 4,
+        id: 12,
         image: "./assets/tejido7.1.webp",
         title: "Saco Tejido GirlPower",
         description: "Mostaza",
@@ -2210,7 +2210,7 @@ export const TejidosData1 = [
         price: 60.00
     },
     {
-        id: 5,
+        id: 13,
         image: "./assets/tejido9.1.webp",
         title: "Saco Tejido Beish",
         description: "Beish",
@@ -2224,7 +2224,7 @@ export const TejidosData1 = [
 
 export const CamisaData1 = [
     {
-        id: 1.1,
+        id: 1,
         image: "./assets/CamisaMan1.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Blue Paris-Milan",
@@ -2233,7 +2233,7 @@ export const CamisaData1 = [
         price: 48.00
     },
     {
-        id: 2.1,
+        id: 2,
         image: "./assets/CamisaMan3.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Yellow Shield",
@@ -2242,7 +2242,7 @@ export const CamisaData1 = [
         price: 45.00
     },
     {
-        id: 3.1,
+        id: 3,
         image: "./assets/CamisaMan5.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Green Style",
@@ -2251,7 +2251,7 @@ export const CamisaData1 = [
         price: 45.00
     },
     {
-        id: 4.1,
+        id: 4,
         image: "./assets/CamisaMan7.1.webp",
         title: "Camisa Red Crown",
         img: "./assets/soldOut.webp",
@@ -2260,7 +2260,7 @@ export const CamisaData1 = [
         price: 45.00
     },
     {
-        id: 5.1,
+        id: 5,
         image: "./assets/CamisaMan9.1.webp",
         title: "Camisa Pocket",
         description: "Negro y Café",
@@ -2268,7 +2268,7 @@ export const CamisaData1 = [
         price: 45.00
     },
     {
-        id: 6.1,
+        id: 6,
         image: "./assets/CamisaMan11.1.webp",
         title: "Camisa White Black",
         description: "Blanco y azul",
@@ -2276,7 +2276,7 @@ export const CamisaData1 = [
         price: 48.00
     },
     {
-        id: 7.1,
+        id: 7,
         image: "./assets/CamisaMan13.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Blue Line",
@@ -2285,7 +2285,7 @@ export const CamisaData1 = [
         price: 45.00
     },
     {
-        id: 8.1,
+        id: 8,
         image: "./assets/CamisaMan15.1.webp",
         img: "./assets/soldOut.webp",
         title: "Camisa Green Rouse",
@@ -2298,7 +2298,7 @@ export const CamisaData1 = [
 
 export const AbrigoData1 = [
     {
-        id: 100,
+        id: 14,
         image: "./assets/abrigo1.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Dark Vampire",
@@ -2307,7 +2307,7 @@ export const AbrigoData1 = [
         price: 98.00
     },
     {
-        id: 101,
+        id: 15,
         image: "./assets/abrigo3.1.webp",
         title: "Abrigo Dark Green Rever",
         description: "Blanco y negro",
@@ -2315,7 +2315,7 @@ export const AbrigoData1 = [
         price: 135.00
     },
     {
-        id: 102,
+        id: 16,
         image: "./assets/abrigo5.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Military Hook",
@@ -2324,7 +2324,7 @@ export const AbrigoData1 = [
         price: 99.00
     },
     {
-        id: 103,
+        id: 17,
         image: "./assets/abrigo7.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Future Street",
@@ -2333,7 +2333,7 @@ export const AbrigoData1 = [
         price: 75.00
     },
     {
-        id: 104,
+        id: 18,
         image: "./assets/abrigo9.1.webp",
         img: "./assets/soldOut.webp",
         title: "Chaqueta Glow",
@@ -2342,7 +2342,7 @@ export const AbrigoData1 = [
         price: 130.00
     },
     {
-        id: 105,
+        id: 19,
         image: "./assets/abrigo11.1.webp",
         title: "Abrigo WaterProof",
         description: "Blanco y negro",
@@ -2350,7 +2350,7 @@ export const AbrigoData1 = [
         price: 75.00
     },
     {
-        id: 106,
+        id: 20,
         image: "./assets/abrigo13.1.webp",
         title: "Abrigo Green Future",
         description: "Blanco y negro",
@@ -2358,7 +2358,7 @@ export const AbrigoData1 = [
         price: 80.00
     },
     {
-        id: 107,
+        id: 21,
         image: "./assets/abrigo15.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Blue Sky",
@@ -2367,7 +2367,7 @@ export const AbrigoData1 = [
         price: 98.00
     },
     {
-        id: 108,
+        id: 22,
         image: "./assets/abrigo17.1.webp",
         title: "Abrigo Under Blue",
         description: "Blanco y negro",
@@ -2375,7 +2375,7 @@ export const AbrigoData1 = [
         price: 49.99
     },
     {
-        id: 109,
+        id: 23,
         image: "./assets/abrigo19.1.webp",
         img: "./assets/soldOut.webp",
         title: "Abrigo Mustard Rose",
@@ -2384,7 +2384,7 @@ export const AbrigoData1 = [
         price: 125.00
     },
     {
-        id: 110,
+        id: 24,
         image: "./assets/abrigo21.1.webp",
         title: "Abrigo Autumn",
         description: "Blanco y negro",
