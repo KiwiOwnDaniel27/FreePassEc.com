@@ -2396,7 +2396,7 @@ export const AbrigoData1 = [
 
 export const CollaresData1 = [
     {
-        id: 1,
+        id: 25,
         image: "./assets/collar1.png",
         title: "Collar Rouse",
         description: "Dorado y rosa",
@@ -2404,7 +2404,7 @@ export const CollaresData1 = [
         price: 27.00
     },
     {
-        id: 2,
+        id: 26,
         image: "./assets/collar2.png",
         title: "Cadena Music",
         description: "Metal y rojo",
@@ -2412,7 +2412,7 @@ export const CollaresData1 = [
         price: 25.00
     },
     {
-        id: 3,
+        id: 27,
         image: "./assets/collar3.png",
         title: "Collar Perlas Rouse",
         description: "Azul y dorado",
@@ -2420,7 +2420,7 @@ export const CollaresData1 = [
         price: 30.00
     },
     {
-        id: 4,
+        id: 28,
         image: "./assets/collar4.png",
         title: "Collar Black Gold",
         description: "Dorado y negro",
@@ -2428,7 +2428,7 @@ export const CollaresData1 = [
         price: 30.00
     },
     {
-        id: 5,
+        id: 29,
         image: "./assets/collar5.png",
         title: "Collar Verano Rouse",
         description: "Celesta y blanco",
@@ -2436,7 +2436,7 @@ export const CollaresData1 = [
         price: 25.00
     },
     {
-        id: 6,
+        id: 30,
         image: "./assets/collar6.png",
         title: "Cadena Gold Black Rouse",
         description: "Dorado y negro",
@@ -2444,7 +2444,7 @@ export const CollaresData1 = [
         price: 30.00
     },
     {
-        id: 7,
+        id: 31,
         image: "./assets/collar7.png",
         title: "Collar Elegant Fresh",
         description: "Rojo y celeste",
@@ -2452,7 +2452,7 @@ export const CollaresData1 = [
         price: 23.00
     },
     {
-        id: 8,
+        id: 32,
         image: "./assets/collar8.png",
         title: "Collar Red Gold",
         description: "Dorado y rojo",
