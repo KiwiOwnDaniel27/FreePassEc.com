@@ -28,7 +28,7 @@ const Hero = () => {
         sm:h-90">
 
             <div className="h-60 w-60
-            bg-[url('/assets/fondo.webp')] bg-contain bg-center flex -ml-35 2xl:ml-265
+            bg-[url('/assets/banner2.png')] bg-contain bg-center flex -ml-35 2xl:ml-265
             xl:ml-155 lg:ml-100 md:ml-103 sm:-ml-29 mt-19 rounded-3xl rotate-45 -z-10
             2xl:h-160 2xl:w-160 2xl:-mt-60
             xl:h-150 xl:w-150 xl:-mt-65
@@ -38,7 +38,7 @@ const Hero = () => {
             ">
             </div>
             <div className="h-60 w-60
-            bg-[url('/assets/fondo1.0.webp')] bg-contain bg-center -ml-35 2xl:ml-265
+            bg-[url('/assets/banner1.png')] bg-contain bg-center -ml-35 2xl:ml-265
             xl:ml-155 lg:ml-100 md:ml-103 sm:-ml-29 mt-19 rounded-3xl rotate-45 -z-10
             2xl:h-160 2xl:w-160 2xl:-mt-60
             xl:h-150 xl:w-150 xl:-mt-65
