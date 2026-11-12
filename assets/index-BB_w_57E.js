@@ -19,7 +19,7 @@ Please change the parent <Route path="${k}"> to <Route path="${k==="/"?"*":`${k}
         lg:h-80\r
         md:h-85\r
         sm:h-90`,children:[s.jsx("div",{className:`h-60 w-60\r
-            bg-[url('/assets/fondo.webp')] bg-contain bg-center flex -ml-35 2xl:ml-265\r
+            bg-[url('/assets/banner2.png')] bg-contain bg-center flex -ml-35 2xl:ml-265\r
             xl:ml-155 lg:ml-100 md:ml-103 sm:-ml-29 mt-19 rounded-3xl rotate-45 -z-10\r
             2xl:h-160 2xl:w-160 2xl:-mt-60\r
             xl:h-150 xl:w-150 xl:-mt-65\r
@@ -27,7 +27,7 @@ Please change the parent <Route path="${k}"> to <Route path="${k==="/"?"*":`${k}
             md:w-90 md:h-90 md:-mt-30\r
             sm:w-60 sm:h-60 sm:mt-14  dark:hidden\r
             `}),s.jsx("div",{className:`h-60 w-60\r
-            bg-[url('/assets/fondo1.0.webp')] bg-contain bg-center -ml-35 2xl:ml-265\r
+            bg-[url('/assets/banner1.png')] bg-contain bg-center -ml-35 2xl:ml-265\r
             xl:ml-155 lg:ml-100 md:ml-103 sm:-ml-29 mt-19 rounded-3xl rotate-45 -z-10\r
             2xl:h-160 2xl:w-160 2xl:-mt-60\r
             xl:h-150 xl:w-150 xl:-mt-65\r
