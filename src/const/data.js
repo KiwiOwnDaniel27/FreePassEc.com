@@ -137,15 +137,6 @@ export const ProductsData = [
 
 export const ProductsData1 = [
     {
-        id: 4,
-        image: "./assets/CamisaMan7.1.webp",
-        img: "./assets/soldOut.webp",
-        title: "Camisa Red Crown",
-        description: "Negro y Rojo",
-        link: "/camisa-4",
-        price: 45.00
-    },
-    {
         id: 5,
         image: "./assets/CamisaMan9.1.webp",
         title: "Camisa Pocket",
@@ -194,15 +185,6 @@ export const ProductsData1 = [
         price: 60.00
     },
     {
-        id: 14,
-        image: "./assets/abrigo1.1.webp",
-        img: "./assets/soldOut.webp",
-        title: "Abrigo Dark Vampire",
-        description: "Blanco y negro",
-        link: "/abrigo-1",
-        price: 98.00
-    },
-    {
         id: 15,
         image: "./assets/abrigo3.1.webp",
         title: "Abrigo Dark Green Rever",
@@ -211,30 +193,12 @@ export const ProductsData1 = [
         price: 135.00
     },
     {
-        id: 16,
-        image: "./assets/abrigo5.1.webp",
-        img: "./assets/soldOut.webp",
-        title: "Abrigo Military Hook",
-        description: "Blanco y negro",
-        link: "/abrigo-3",
-        price: 99.00
-    },
-    {
         id: 17,
         image: "./assets/abrigo7.1.webp",
         title: "Abrigo Future Street",
         description: "Blanco y negro",
         link: "/abrigo-4",
         price: 75.00
-    },
-    {
-        id: 18,
-        image: "./assets/abrigo9.1.webp",
-        img: "./assets/soldOut.webp",
-        title: "Chaqueta Glow",
-        description: "Café y Negro",
-        link: "/abrigo-5",
-        price: 130.00
     },
     {
         id: 19,
